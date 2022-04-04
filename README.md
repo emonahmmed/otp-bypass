@@ -75,9 +75,9 @@ The differents call services supported :
 
 Download the API Files from the github
 
-```git clone https://github.com/trewisscotch/SMSBypass.git```
+```git clone https://github.com/emonahmmed/otp-bypass.git```
 Go to our API folder
-```cd /SMSBypass/api/```
+```cd /otp-bypass/api/```
 Install the dependencies
 ```npm i```
 Start the api, wait 15s, and then, stop it
